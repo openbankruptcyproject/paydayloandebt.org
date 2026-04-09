@@ -1,0 +1,25 @@
+# Payday Loan Debt -- Consolidation, Repayment Plans & Bankruptcy [2026]
+> Trapped in payday loan debt? Learn how to break the cycle with repayment plans, state laws, and bankruptcy. 2026 guide.
+
+## About
+paydayloandebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Alternatives to Payday Loans: https://paydayloandebt.org/alternatives-to-payday.html
+- Bankruptcy and Payday Loan Debt: https://paydayloandebt.org/bankruptcy-and-payday.html
+- Debt Consolidation for Payday Loans: https://paydayloandebt.org/debt-consolidation.html
+- Payday Loan Extended Payment Plans: https://paydayloandebt.org/extended-payment-plans.html
+- Payday Loan Debt -- Consolidation, Repayment Plans & Bankruptcy: https://paydayloandebt.org/
+- Military Lending Act and Payday Loans: https://paydayloandebt.org/military-lending-act.html
+- The Payday Loan Trap Cycle: https://paydayloandebt.org/payday-loan-trap.html
+- Revoking ACH Authorization for Payday Loans: https://paydayloandebt.org/revoke-ach.html
+- Filing a Complaint Against a Payday Lender: https://paydayloandebt.org/state-ag-complaints.html
+- Payday Loan Regulations by State: https://paydayloandebt.org/state-regulations.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
