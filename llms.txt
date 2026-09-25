@@ -1,5 +1,5 @@
-# Payday Loan Debt - Consolidation, Repayment Plans & Bankruptcy [2026]
-> Last updated: 2026-05-01
+# Payday Loan Debt - Consolidation, Repayment Plans &amp; Bankruptcy [2026]
+> Last updated: 2026-09-25
 
 > Trapped in payday loan debt? Learn how to break the cycle with repayment plans, state laws, and bankruptcy. 2026 guide.
 
@@ -7,17 +7,70 @@
 paydayloandebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Alternatives to Payday Loans: https://paydayloandebt.org/alternatives-to-payday.html
-- Bankruptcy and Payday Loan Debt: https://paydayloandebt.org/bankruptcy-and-payday.html
-- Debt Consolidation for Payday Loans: https://paydayloandebt.org/debt-consolidation.html
-- Payday Loan Extended Payment Plans: https://paydayloandebt.org/extended-payment-plans.html
-- Payday Loan Debt - Consolidation, Repayment Plans & Bankruptcy: https://paydayloandebt.org/
-- Military Lending Act and Payday Loans: https://paydayloandebt.org/military-lending-act.html
-- The Payday Loan Trap Cycle: https://paydayloandebt.org/payday-loan-trap.html
-- Revoking ACH Authorization for Payday Loans: https://paydayloandebt.org/revoke-ach.html
-- Filing a Complaint Against a Payday Lender: https://paydayloandebt.org/state-ag-complaints.html
-- Payday Loan Regulations by State: https://paydayloandebt.org/state-regulations.html
+- Alternatives to Payday Loans [2026]: PAL Credit Union Loans, EWA, and CFPB Resources: https://paydayloandebt.org/alternatives-to-payday.html
+- Payday Loans in Bankruptcy [2026]: 11 USC 523(a)(2)(C) Presumption and Dischargeability: https://paydayloandebt.org/bankruptcy-and-payday.html
+- Payday Loan Consolidation Companies: https://paydayloandebt.org/debt-consolidation.html
+- Payday Loan Extended Payment Plans [2026]: State-Mandated EPP Rights and No-Fee Rollover: https://paydayloandebt.org/extended-payment-plans.html
+- Payday Loan Debt - Consolidation, Repayment Plans &amp; Bankruptcy: https://paydayloandebt.org/
+- Military Lending Act and Payday Loans [2026]: 10 USC 987 36% MAPR Cap for Servicemembers: https://paydayloandebt.org/military-lending-act.html
+- Payday Loan Trap Cycle [2026]: CFPB Data on 80% Rollover Rate and Debt Spiral Mechanics: https://paydayloandebt.org/payday-loan-trap.html
+- Revoking Payday Loan ACH Authorization [2026]: 12 CFR 1005.10(c) and Reg E Stop-Payment Rights: https://paydayloandebt.org/revoke-ach.html
+- Complaints Against Payday Lenders [2026]: State AG, CFPB, and FTC Filing Procedures: https://paydayloandebt.org/state-ag-complaints.html
+- Payday Loan Regulations by State [2026]: APR Caps, Loan Limits, and Prohibitions Map: https://paydayloandebt.org/state-regulations.html
 - Privacy Policy: https://paydayloandebt.org/privacy.html
+- About paydayloandebt.org: https://paydayloandebt.org/about.html
+- Alabama Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/alabama.html
+- Alaska Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/alaska.html
+- Arizona Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/arizona.html
+- Arkansas Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/arkansas.html
+- California Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/california.html
+- Colorado Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/colorado.html
+- Connecticut Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/connecticut.html
+- Delaware Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/delaware.html
+- District of Columbia Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/district-of-columbia.html
+- Florida Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/florida.html
+- Georgia Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/georgia.html
+- Hawaii Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/hawaii.html
+- Idaho Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/idaho.html
+- Illinois Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/illinois.html
+- Payday Loan Regulation by State: https://paydayloandebt.org/states/
+- Indiana Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/indiana.html
+- Iowa Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/iowa.html
+- Kansas Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/kansas.html
+- Kentucky Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/kentucky.html
+- Louisiana Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/louisiana.html
+- Maine Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/maine.html
+- Maryland Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/maryland.html
+- Massachusetts Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/massachusetts.html
+- Michigan Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/michigan.html
+- Minnesota Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/minnesota.html
+- Mississippi Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/mississippi.html
+- Missouri Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/missouri.html
+- Montana Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/montana.html
+- Nebraska Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/nebraska.html
+- Nevada Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/nevada.html
+- New Hampshire Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/new-hampshire.html
+- New Jersey Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/new-jersey.html
+- New Mexico Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/new-mexico.html
+- New York Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/new-york.html
+- North Carolina Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/north-carolina.html
+- North Dakota Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/north-dakota.html
+- Ohio Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/ohio.html
+- Oklahoma Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/oklahoma.html
+- Oregon Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/oregon.html
+- Pennsylvania Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/pennsylvania.html
+- Rhode Island Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/rhode-island.html
+- South Carolina Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/south-carolina.html
+- South Dakota Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/south-dakota.html
+- Tennessee Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/tennessee.html
+- Texas Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/texas.html
+- Utah Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/utah.html
+- Vermont Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/vermont.html
+- Virginia Payday Loan Laws: Capped Status: https://paydayloandebt.org/states/virginia.html
+- Washington Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/washington.html
+- West Virginia Payday Loan Laws: Banned Status: https://paydayloandebt.org/states/west-virginia.html
+- Wisconsin Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/wisconsin.html
+- Wyoming Payday Loan Laws: Legal Status: https://paydayloandebt.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
